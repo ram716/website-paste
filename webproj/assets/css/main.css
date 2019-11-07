@@ -3338,7 +3338,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background: #1b1b1b; /*COLOR HERE*/
 		}
 
 		#header .logo {
@@ -4531,6 +4531,7 @@
 	 opacity: 1;
 	 top: 0;
 	 bottom: 0;
+	 left: 0;
 	 }
 
 	 .cards-target:target img {
