@@ -3749,7 +3749,7 @@
 			background-color: #000; /*HERE BANNER COLOR*/
 			height: 100%;
 			left: 0;
-			opacity: 0.25; /*HERE BANNER OPACITY*/
+			opacity: 0.18; /*HERE BANNER OPACITY*/
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -3983,7 +3983,7 @@
 			background-color: #000;
 			height: 100%;
 			left: 0;
-			opacity: 0.25; /* OTHER BANNER OPACITY HERE */
+			opacity: 0.18; /* OTHER BANNER OPACITY HERE */
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -4536,7 +4536,7 @@
 
 	 .cards-target:target img {
 	 max-height: 100%;
-	 max-width: 100%;
+	 max-width: 70%;
 	 }
 
 	 .cards-target:target a.cards-close {
